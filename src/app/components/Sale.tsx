@@ -27,6 +27,8 @@ function Sale() {
             <div className="mt-2 text-center">
               <span className="block font-bold">toy001</span>
               <span className="block font-bold">Rs: 3200</span>
+
+              
               <button className="mt-3 px-4 py-2 bg-blue-500 text-white rounded-md">
                 ADD TO CART
               </button>

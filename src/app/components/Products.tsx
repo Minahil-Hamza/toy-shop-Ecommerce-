@@ -8,7 +8,7 @@ function Product() {
         <div className="mb-5 text-center">
         
           <div className="flex justify-between items-center mt-4">
-            <h2 className="text-2xl font-bold">Best Selling Products</h2>
+            <h2 className="text-2xl font-bold">Best Selling Toys</h2>
             <button className="px-4 py-2 bg-red-500 text-white rounded-md">
               View All
             </button>

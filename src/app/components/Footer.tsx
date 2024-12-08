@@ -27,7 +27,7 @@ function Footer() {
             <div>
                 <h1 className="text-3xl font-bold mb-3">About Us</h1>
                 <ul className="space-y-2">
-                    <li className="hover:underline underline-offset-4 text-lg font-bold text-yellow-500">We're Always Ready</li>
+                    <li className="hover:underline underline-offset-4 text-lg font-bold text-yellow-500">We are Always Ready</li>
                     <li className="hover:underline underline-offset-4 text-lg font-bold text-yellow-500">Ready To Help</li>
                     <li className="hover:underline underline-offset-4 text-lg font-bold text-yellow-500">Reach out to us</li>
                     <li className="hover:underline underline-offset-4 text-lg font-bold text-yellow-500">through any of these support channels</li>
